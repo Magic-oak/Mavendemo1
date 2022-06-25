@@ -10,6 +10,7 @@ public class App
     {
         // javadoc1
         // javadoc2
+        // javadoc3
         System.out.println( "Hello World!" );
     }
 }
